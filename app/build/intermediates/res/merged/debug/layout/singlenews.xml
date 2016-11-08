@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>  
+ <LinearLayout xmlns:Android="http://schemas.android.com/apk/res/android"  
+    Android:orientation="horizontal" 
+    Android:layout_width="fill_parent"  
+    Android:layout_height="fill_parent">  
+  
+    <!-- 商品图片 -->  
+
+    <ImageView
+        Android:id="@+id/imageItem"
+        Android:layout_width="60dp"
+        Android:layout_height="60dp"
+        Android:layout_margin="5px"
+        Android:src="@drawable/logo" />
+       
+    <!-- 商品信息 -->  
+    <LinearLayout Android:orientation="vertical"  
+        Android:layout_width="wrap_content"    
+        Android:layout_height="wrap_content">  
+  
+        <TextView Android:id="@+id/titleItem"    
+            Android:layout_width="wrap_content"  
+            Android:layout_height="wrap_content"    
+            Android:textColor="#000000"  
+            Android:layout_marginLeft="33dp"
+            Android:textSize="18px" 
+            Android:text="济南楼市新闻" />  
+        <TextView Android:id="@+id/infoItem"    
+            Android:layout_width="wrap_content"  
+            Android:layout_height="wrap_content"  
+            Android:layout_marginLeft="33dp"  
+            Android:textColor="#000000"  
+            Android:textSize="12px" 
+            Android:text="新闻的详细内容"/>  
+    </LinearLayout>  
+  </LinearLayout>  

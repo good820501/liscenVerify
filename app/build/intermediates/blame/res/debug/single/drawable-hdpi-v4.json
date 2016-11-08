@@ -1,0 +1,842 @@
+[
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\adverholder.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\adverholder.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personormal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\personormal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\askdoc.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\askdoc.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\b8.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\b8.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clear_focus.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\clear_focus.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bg1.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_bg1.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_home_location_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_home_location_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topic.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\topic.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\write.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\write.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_yijk.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_yijk.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\info.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\info.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_esf_s.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_esf_s.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vline.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\vline.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clear.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\clear.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fback.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\fback.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flash.jpg",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\flash.jpg"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_msg_icon.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\list_msg_icon.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_1_f.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\pic_1_f.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bg4.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_bg4.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_sms_offline_icon.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\list_sms_offline_icon.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bg22_press.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_bg22_press.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\imagelogo.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\imagelogo.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_call.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\list_call.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_2_c.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_2_c.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_1_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_1_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\cancel.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\back_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg.9.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_bg.9.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\huz_popup_top.9.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\huz_popup_top.9.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_new.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\nav_new.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hos3.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\hos3.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_more.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\nav_more.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\devider.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\devider.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_search_s.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_search_s.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\load.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\load.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_4_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_4_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_ucenter.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\nav_ucenter.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sl2ider_right_control.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\sl2ider_right_control.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\borderframe.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\borderframe.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clear_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\clear_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_search_select.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_search_select.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bak1phonetabview_bg.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\bak1phonetabview_bg.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_more_select.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_more_select.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image02.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\image02.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\personsel.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\personsel.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fpageline.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\fpageline.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\registesec.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\registesec.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ok.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\ok.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_home_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_home_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_find_frd_pressed.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_pressed.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_authen.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\list_authen.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_house_select.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_house_select.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voip_switchcamera_pressed.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\voip_switchcamera_pressed.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slidebar.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\slidebar.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_xf.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_xf.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_page_bg.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\image_page_bg.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\input.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\input.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\huz_popup_bottom.9.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\huz_popup_bottom.9.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_default.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_zf_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_zf_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_5_c.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_5_c.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic.jpg",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\pic.jpg"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attend.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\attend.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_pinggu_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_pinggu_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bg22.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_bg22.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\select.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\select.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_sms_icon.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\list_sms_icon.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fname.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\fname.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sl_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\sl_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_category.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\nav_category.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\secflash.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\secflash.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image05.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\image05.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_btn_pressed.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\video_play_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sharenew.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\sharenew.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_find_frd_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hos2.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\hos2.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loginblue.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\loginblue.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_recording_btn.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_recording_btn.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phonetitlebar_bg.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\phonetitlebar_bg.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_msg.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\list_msg.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\huz_popup_full.9.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\huz_popup_full.9.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_3_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_3_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bg23.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_bg23.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_xf_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_xf_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\huz_popup_center.9.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\huz_popup_center.9.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_2_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_2_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selapp.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\selapp.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home1.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home1.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image03.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\image03.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\b10.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\b10.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_userlogin.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_userlogin.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_left_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_left_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bg21_press.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_bg21_press.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phonetabview_bg.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\phonetabview_bg.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_down.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\search_down.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\choose_small.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\choose_small.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_focus.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\send_focus.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image04.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\image04.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_house_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_house_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fadv.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\fadv.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_settings_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\previous_month.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\previous_month.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_settings_pressed.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_pressed.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hos1.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\hos1.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_weixin_pressed.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_pressed.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\a.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\b11.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\b11.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\infosel.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\infosel.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_3_c.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_3_c.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ssdk_oks_ptr_ptr.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_sms.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\list_sms.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_5_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_5_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\b6.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\b6.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\video.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lvxian.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\lvxian.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_none.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\dot_none.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_1_c.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_1_c.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\check.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rec_new.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\rec_new.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\adbanner.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\adbanner.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hoslogo.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\hoslogo.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\b7.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\b7.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ditu.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\ditu.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_left_s.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_left_s.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\read.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\read.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_sms_offline.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\list_sms_offline.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\verify.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\verify.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_top.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\top_bar_top.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_esf.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_esf.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bg21.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_bg21.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_address_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_search_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_search_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sendb.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\sendb.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_play_btn_nor.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\video_play_btn_nor.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head.jpg",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\head.jpg"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tele.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tele.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_selected1.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\dot_selected1.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_address_pressed.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_address_pressed.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\month.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\month.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exitbig.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\exitbig.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\flogo.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\flogo.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_home_location_s.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_home_location_s.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activity.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\activity.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_search_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_search_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_esf_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_esf_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_pinggu_s.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_pinggu_s.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_bar.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\send_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pvideo.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\pvideo.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\order_sliding_up.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\order_sliding_up.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_zf_s.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_zf_s.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\insurance.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\insurance.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tabno.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tabno.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\allimage_s.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\allimage_s.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_none1.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\dot_none1.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_more_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_more_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next_month.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\next_month.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg2.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_bg2.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yellos.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\yellos.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rock.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\rock.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\booksec.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\booksec.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topback.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\topback.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_zf.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_zf.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\order_sliding_down.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\order_sliding_down.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_selected.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\dot_selected.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\imud.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\imud.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voip_switchcamera_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\voip_switchcamera_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_weixin_normal.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_normal.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\position.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\position.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sback.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\sback.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\actb.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\actb.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_call_icon.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\list_call_icon.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hadmin.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\hadmin.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\week.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\week.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\b9.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\b9.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_4_c.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_4_c.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_home_select.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab_home_select.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_xf_s.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_xf_s.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\order_ordered.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\order_ordered.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\newlogo.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\newlogo.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_bj.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\login_bj.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_recorder_start_btn_nor.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\video_recorder_start_btn_nor.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bg23_press.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_bg23_press.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bottom_bg.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_bottom_bg.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_bg3.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_bg3.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topbanned.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\topbanned.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image01.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\image01.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_source.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\refresh_source.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.jpg",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\logo.jpg"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\registe.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\registe.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hos_tips_bg.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\hos_tips_bg.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\advertise.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\advertise.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dustbin.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\dustbin.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_home.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\nav_home.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_top_bg.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\home_top_bg.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab1.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\tab1.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_search_image.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\edittext_search_image.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\advertise2.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\advertise2.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slider_right_control.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\slider_right_control.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divider_horizontal_line.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\divider_horizontal_line.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pos.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\pos.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\book.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-hdpi\\book.png"
+    }
+]

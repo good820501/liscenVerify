@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\gallery_in.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\anim\\gallery_in.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_in.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_in.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_out.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_out.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\anim\\right_out.xml"
+    }
+]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/album/util/AlbumGridViewAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/album/util/GridImageAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/album/util/MD5.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/album/util/MyApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/calendar/control/CalendarActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/calendar/control/DateWidgetDayCell.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/calendar/control/DateWidgetDayHeader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/calendar/control/DayStyle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/calendar/control/LogWriter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/chart/control/ScrollViewExtend.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/common/dbhelp/DensityUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/common/dbhelp/WebAssistant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/common/dbhelp/WeekDataObject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/common/dbhelp/WndAssistant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/common/dbhelp/dbHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/homenet/AppLog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/homenet/EncryptUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/homenet/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/homenet/MainPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/homenet/MoveBg.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/homenet/RecordActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/homenet/RecorderTrack.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/homenet/SaleDetailActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/homenet/SalesActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/homenet/SoundMeter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/homenet/SoundView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/homenet/basecompoment/AdverSingleRow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/homenet/basecompoment/FingerPics.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/homenet/basecompoment/HServiceHelp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/homenet/basecompoment/NetFileAssistant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/homenet/basecompoment/News.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/homenet/basecompoment/ScrollViewExtend.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/homenet/basecompoment/SlideImageLayout.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hosinfo/update/Global.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hosinfo/update/UpdateManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wl/util/LogsUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wl/util/MyProgressBar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wl/util/MyProgressDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/wl/util/SupportedSizesReflect.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

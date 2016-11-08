@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\home_zf.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-mdpi\\home_zf.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_search_s.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-mdpi\\btn_search_s.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\home_esf.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-mdpi\\home_esf.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_search.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\all_house.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-mdpi\\all_house.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_search_n.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-mdpi\\btn_search_n.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\home_xzlsp.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-mdpi\\home_xzlsp.png"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\home_xf.png",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\drawable-mdpi\\home_xf.png"
+    }
+]

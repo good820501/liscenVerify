@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_login.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_sales.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_sales.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_figure_detail.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_figure_detail.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_page.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_main_page.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_exam_detail.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_exam_detail.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_new_house.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_new_house.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_old_house_detail.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_old_house_detail.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_register.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_activities.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_activities.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_first.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_first.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_old_house_list.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_old_house_list.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_news_detail.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_news_detail.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_work.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_work.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_hos_detail.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_hos_detail.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_week_rep.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_week_rep.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_news_list.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_news_list.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_write_daily_info.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_write_daily_info.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_month_rep.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_month_rep.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_question.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_question.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_sale_detail.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_sale_detail.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_info_display.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_info_display.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_share.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\menu\\activity_share.xml"
+    }
+]

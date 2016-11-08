@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sysset.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\sysset.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_pictures.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\top_pictures.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extral.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\extral.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_common_title.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\layout_common_title.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rcd_hint_window.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\rcd_hint_window.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hislist.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\hislist.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_topic_news.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\page_topic_news.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myspinner.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\myspinner.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myprogressbar.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\myprogressbar.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_main.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\calendar_main.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_imageview.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\select_imageview.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actlist.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\actlist.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\singlenews.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\singlenews.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainvideo.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\mainvideo.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_activities.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\activity_activities.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_activity.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\more_activity.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exam_detail.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\activity_exam_detail.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sales.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\activity_sales.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\activity_question.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myprogressdialog.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\myprogressdialog.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_page.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\activity_main_page.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_work.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\activity_work.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_video_record1.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\layout_video_record1.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\controler.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\controler.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\record.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\record.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hoslist.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\hoslist.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sale_detail.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\activity_sale_detail.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_view.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\custom_dialog_view.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workzone.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\workzone.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_house.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\activity_new_house.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\examrow.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\examrow.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drop_down_item.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\drop_down_item.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\activity_album.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_imageview.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\choose_imageview.xml"
+    },
+    {
+        "merged": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vlist.xml",
+        "source": "E:\\ErpSystem\\Android\\ocr\\ocrDemo\\app\\src\\main\\res\\layout\\vlist.xml"
+    }
+]

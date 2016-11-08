@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal" 
+	android:layout_width="fill_parent"
+	 android:background="#ffffff"
+	android:padding="0dip"
+	android:layout_height="fill_parent">
+
+<RelativeLayout
+        android:id="@+id/DataRow"
+        android:layout_width="match_parent"
+        
+        android:layout_marginTop="-1dip"
+        android:layout_height="50dip" >
+	<RelativeLayout
+            android:id="@+id/DateColumn"
+            android:layout_width="70dip"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+              
+            android:layout_marginLeft="0dip" >
+
+		<ImageView
+		    android:id="@+id/HeadPoint"
+		    android:layout_width="16dip"
+		    android:layout_height="match_parent"
+		    android:layout_marginLeft="3dip"
+		    android:layout_marginTop="5dip"
+		    
+		    android:src="@drawable/pic_1_f" >
+</ImageView>
+	    		 
+
+		<TextView
+		    android:id="@+id/DataTitle"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="30dip"
+		    android:layout_centerVertical="true"
+		    android:textSize="14sp" />
+
+		</RelativeLayout>
+		<RelativeLayout
+            android:id="@+id/MaxColumn"
+            android:layout_width="80dip"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="-1dip"
+            android:layout_toRightOf="@+id/DateColumn"
+            
+              >
+		<TextView android:id="@+id/info_min" 
+			android:layout_width="wrap_content"
+			 
+			android:layout_centerHorizontal="true"
+			android:layout_centerVertical="true"
+			android:layout_height="wrap_content" 
+			android:textSize="17sp" />
+		</RelativeLayout>
+		<RelativeLayout
+            android:id="@+id/MinColumn"
+            android:layout_width="80dip"
+            android:layout_height="match_parent"
+             
+            android:layout_toRightOf="@+id/MaxColumn"
+             
+            android:layout_marginLeft="-1dip" >
+			<TextView android:id="@+id/info_max" 
+			android:layout_width="wrap_content"
+			 
+			android:layout_centerHorizontal="true"
+			android:layout_centerVertical="true"
+			android:layout_height="wrap_content" 
+			android:textSize="17sp" />
+		</RelativeLayout>
+	 	<RelativeLayout
+            android:id="@+id/StateColumn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+             
+            android:layout_toRightOf="@+id/MinColumn"
+           
+            android:layout_marginLeft="-1dip" >
+			<TextView android:id="@+id/info_state" 
+			android:layout_width="wrap_content"
+			 
+			android:layout_centerHorizontal="true"
+			
+			android:layout_height="wrap_content" 
+			android:textSize="17sp" />
+			<TextView android:id="@+id/info_extern" 
+			android:layout_width="wrap_content"
+			 
+			android:layout_centerHorizontal="true"
+			android:layout_centerVertical="true"
+			android:layout_below="@+id/info_state"
+			android:layout_height="wrap_content" 
+			android:textColor="#ff0000"
+			android:text="点击重发"
+			android:textSize="10sp" />
+		</RelativeLayout>
+	
+</RelativeLayout>
+</LinearLayout>

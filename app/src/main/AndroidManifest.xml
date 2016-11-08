@@ -1,0 +1,227 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.homenet"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+   <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+<uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+	 <!-- 照相机权限权限 -->
+	<uses-permission android:name="android.permission.CAMERA" />
+	<!-- 读取日志的权限 -->
+    <uses-permission android:name="android.permission.READ_LOGS" /> 
+    <application
+        android:name="com.album.util.MyApplication"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity 
+            android:screenOrientation="portrait" 
+            android:name="com.chart.control.TopicNews">
+        </activity>
+        <activity
+            android:name="com.album.util.AlbumActivity"
+            android:label="新图片" >
+        </activity>
+
+        <activity
+            android:name="com.example.homenet.SalesActivity"
+            android:label="新图片" >
+        </activity>
+        
+        
+        <activity
+            android:name="com.photoselector.ui.PhotoSelectorActivity"
+            android:label="图片选择" >
+        </activity>
+        <activity
+            android:name="com.photoselector.ui.PhotoPreviewActivity"
+            android:label="图片预览" >
+        </activity>
+        <activity
+            android:name="WorkActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".NewHouseActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/ActivityAlphaBackground" >
+        </activity>
+        <activity
+            android:name=".QuestionActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".FirstActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="SearchActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="WorkZoneActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="MoreActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+         <activity
+            android:name="RecordActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.homenet.news.NewsList"
+            android:label="@string/title_activity_news_list" >
+        </activity>
+        <activity
+            android:name="com.homenet.news.NewsDetail"
+            android:label="@string/title_activity_news_detail" >
+        </activity>
+        <activity
+            android:name="com.homenet.oldhouse.OldHouseList"
+            android:label="@string/title_activity_old_house_list" >
+        </activity>
+        <activity
+            android:name="com.homenet.oldhouse.OldHouseDetail"
+            android:label="@string/title_activity_old_house_detail" >
+        </activity>
+        <activity
+            android:name=".MainPage"
+            android:label="@string/title_activity_main_page"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".HosDetail"
+            android:label="@string/title_activity_hos_detail"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".WriteDailyInfo"
+            android:label="@string/title_activity_write_daily_info"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".InfoDisplay"
+            android:label="@string/title_activity_info_display"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.calendar.control.CalendarActivity"
+            android:label="@string/title_activity_info_display"
+            android:screenOrientation="portrait"
+            android:theme="@style/ActivityAlphaBackground" >
+        </activity>
+        <activity
+            android:name="org.achartengine.chartdemo.demo.chart.XYChartBuilder"
+            android:screenOrientation="portrait"
+            android:theme="@style/ActivityAlphaBackground" />
+        <activity
+            android:name="org.achartengine.chartdemo.demo.chart.PieChartBuilder"
+            android:screenOrientation="portrait"
+            android:theme="@style/ActivityAlphaBackground" />
+        <activity
+            android:name="org.achartengine.GraphicalActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/ActivityAlphaBackground" />
+        <activity
+            android:name=".Activities"
+            android:label="@string/title_activity_activities"
+            android:screenOrientation="portrait"
+            android:theme="@style/ActivityAlphaBackground" >
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.hosinfo.dataquery.WeekRepActivity"
+            android:label="@string/title_activity_week_rep"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.hosinfo.dataquery.MonthRepActivity"
+            android:label="@string/title_activity_month_rep"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".SaleDetailActivity"
+            android:label="@string/title_activity_sale_detail"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ExamDetailActivity"
+            android:label="@string/title_activity_exam_detail"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".FigureDetail"
+            android:label="@string/title_activity_figure_detail"
+            android:screenOrientation="landscape" >
+        </activity>
+        
+        <activity
+            android:name=".ShareActivity"
+            android:label="@string/title_activity_share" >
+            
+        </activity>
+        
+        <activity
+   android:name="cn.sharesdk.framework.ShareSDKUIShell"
+   android:theme="@android:style/Theme.Translucent.NoTitleBar"
+   android:configChanges="keyboardHidden|orientation|screenSize"
+   android:screenOrientation="portrait"
+   android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+   android:name="com.share.wxapi.WXEntryActivity"
+   android:theme="@android:style/Theme.Translucent.NoTitleBar"
+   android:configChanges="keyboardHidden|orientation|screenSize"
+   android:exported="true"
+   android:screenOrientation="portrait" />
+        <activity
+   android:name="yxapi.YXEntryActivity"
+   android:theme="@android:style/Theme.Translucent.NoTitleBar"
+   android:configChanges="keyboardHidden|orientation|screenSize"
+   android:exported="true"
+   android:screenOrientation="portrait" />
+        <activity android:name="RecorderTrack"></activity>
+        
+        
+  
+    </application>
+    
+
+</manifest>
